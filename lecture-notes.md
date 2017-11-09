@@ -6,3 +6,9 @@ W1D1
 * [Lecture pt1](https://youtu.be/DGrWO2Ai7bE)
 * [Lecture pt2](https://youtu.be/2M4Z5he0gJo)
 ---
+
+W1D2
+* [HTML Slides](https://docs.google.com/presentation/d/1gduf2WhFFJJXfCN-gBaYZmbAgk8vpBmmA7nboUwu4qI/edit)
+* [Pirate HTML example](https://gist.github.com/jenreiher/f25025af0be281564dff2d4f63e82e73)
+* [Lecture & html demo](https://youtu.be/idvJptP4aa8)
+---
