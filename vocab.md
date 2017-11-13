@@ -31,3 +31,29 @@
 * __Span tag__: a way to divide things on the page. These flow within the content on the page. 
 * __Semantic tags__: we should try to use tag names to describe things so that the code is more human readable, and other technologies have an easier time interacting with your page in a meaningful way.  
 * __Static__: A website that has no server behind it. It just uses pure html and maybe css and/or some javascript.
+
+## W2D1
+* __Selector__: the html element(s)/tag(s) that are being targeted and styled with the CSS language, elements can be selected by their tag name, class and or id as well as several other pseudo-selectors (<--more advanced css). IE:
+```
+  <h1 class="titles" id="main-title">Hello World</h1>
+ /*selecting by tag name*/ 
+ h1 {
+   ...
+  }
+  /*selecting by class*/
+  .titles {
+   ...
+  }
+  /*selecting by id*/
+  #main-title {
+   ...
+  }
+```
+* __Property__: the styling rules that can be applied to a selector. IE: border, background color, text color etc.
+* __Property Value__: the different values that a CSS Property may have. IE:
+```
+  /*property: value*/
+  background-color: red;
+  background-color: blue;
+```
+* __Styling Rules__: Another term for the CSS Properties/Values being applied to Selectors.
