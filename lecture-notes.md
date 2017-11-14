@@ -12,8 +12,9 @@ W1D2
 * [Pirate HTML example](https://gist.github.com/jenreiher/f25025af0be281564dff2d4f63e82e73)
 * [Lecture & html demo](https://youtu.be/idvJptP4aa8)
 ---
+
 W2D1
 * [CSS SLIDES](https://docs.google.com/presentation/d/1WbGzQHEzyG_QZ3VnVmXiSva0CVm360gRbjWMO0pDRGw/edit?usp=sharing)
-* [Relative Paths] (https://youtu.be/fx6z3e1hjhs)
+* [Relative Paths](https://youtu.be/fx6z3e1hjhs)
 * [Relative Paths Slides](https://docs.google.com/presentation/d/1Qx_rQRmhVdRVoZiQsCuAsvou6JP81Nz3aKOiD6_6jZs/edit?usp=sharing)
-* [CSS Lecture] (https://youtu.be/mXGI-tBq36s)
+* [CSS Lecture](https://youtu.be/mXGI-tBq36s)
