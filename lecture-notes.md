@@ -18,3 +18,11 @@ W2D1
 * [Relative Paths](https://youtu.be/fx6z3e1hjhs)
 * [Relative Paths Slides](https://docs.google.com/presentation/d/1Qx_rQRmhVdRVoZiQsCuAsvou6JP81Nz3aKOiD6_6jZs/edit?usp=sharing)
 * [CSS Lecture](https://youtu.be/mXGI-tBq36s)
+
+---
+
+W2D2
+* [Ruby Slides](https://docs.google.com/presentation/d/1UCevu3iz6iDO78C2T01wTQqO8g2xMiN2CYKdz10RJto/edit?usp=sharing)
+* [Lecture Video](https://youtu.be/rDRY6vGcq1w)
+* [Harry Potter Example Video](https://youtu.be/cK16CMb7l1g)
+* [Harry Potter Example Code](https://gist.github.com/jenreiher/0194693e3c4ced1da5a04e683df27632)
