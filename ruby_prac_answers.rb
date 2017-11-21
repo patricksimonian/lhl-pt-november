@@ -7,8 +7,8 @@
 
 
 # Q1 Answer
-  def someMethod(someArg1, someArg2)
-    #...
+  def someMethod(x, y)
+    return x + y
   end
 # END of Q1 Answer
 
