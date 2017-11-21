@@ -1,5 +1,5 @@
 # Ruby Practice Questions
-###### The goal of this is not to scare you guys but to expose you to programatic and logical thinking
+ ###### The goal of this is not to scare you guys but to expose you to programatic and logical thinking
 
 ```
 #helpful methods
@@ -49,6 +49,6 @@
    Result [result of that calculation]
    The result of this number happens to be [odd | even]
    ```
-   *** A guaranteed constraint is that the numbers are not floating points (so you won't have to worry about rounding) ***
-   *** please note how all of the statements are on a new line! ***
+   *A guaranteed constraint is that the numbers are not floating points (so you won't have to worry about rounding)*
+   **please note how all of the statements are on a new line!**
    [this may help with that endeavour](https://www.digitalocean.com/community/tutorials/how-to-work-with-strings-in-ruby#long-strings-and-newlines)
