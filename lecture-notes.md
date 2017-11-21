@@ -26,3 +26,8 @@ W2D2
 * [Lecture Video](https://youtu.be/rDRY6vGcq1w)
 * [Harry Potter Example Video](https://youtu.be/cK16CMb7l1g)
 * [Harry Potter Example Code](https://gist.github.com/jenreiher/0194693e3c4ced1da5a04e683df27632)
+
+---
+W3D1
+* [Lecture Video](https://youtu.be/U4dPH35BKP0)
+* [Lecture Slides](https://docs.google.com/presentation/d/1xpBOc4r3yxzyV_QrjQXlqr-J87weDsbp2j6zjD33TvE/edit?usp=sharing)
