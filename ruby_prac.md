@@ -52,3 +52,27 @@
    *A guaranteed constraint is that the numbers are not floating points (so you won't have to worry about rounding)*
    **please note how all of the statements are on a new line!**
    [this may help with that endeavour](https://www.digitalocean.com/community/tutorials/how-to-work-with-strings-in-ruby#long-strings-and-newlines)
+
+### Q6 BONUS WOO
+  Write a method that accepts a single character as an argument as well as a string like so...
+  ```
+    exampleMethod(character, test_string)
+    ...
+  ```
+  Return the index (the numerical position of a character in a string) of the first occuring match between that character and the test string, if there is no match output  "no match found"
+  IE:
+  ``` 
+   findFirstIndex('a', 'Water')  #=> 1  (character indexs in a string start at 0 just like arrays!!)
+   findFirstIndex('e', 'Water Melon')  #=> 3
+   findFirstIndex('z', 'Water Melon')  #=> "no match found"
+  ```
+   This is tricky. It will require you to utilize some built in methods of Ruby strings..the good news is you've already been using built in methods if you've ever used .to_s, .length, or .each!
+   There are many ways to loop over a string in ruby. One way is to use the .each_char method that Strings have built in.
+   **The useage is exactly like .each**
+   ``` 
+    name = "Billy Bob"
+    name.each_char do |..| 
+     ...
+    end
+   ```
+   **It may help to learn 'break' statements (google it)**
