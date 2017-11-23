@@ -77,3 +77,16 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __Returning__: The name for the end result of what a method "spits out" at the end when it finishes evaluating. Ruby is a bit different than other languages in that the last line of code that runs in a method is the result that the method returns.
 * __Hash__: A fancy way to hold data in Ruby so that you can return it later. They are stored in "key value pairs", where the key (that you as a developer can predict) will be on the left, and the value (that may be entered by the user) is stored on the right. This lets us access data from our app in an easy way. Think of it like super organization for your data. 
 * __Array__: A list of things - it could be a list of strings, a list of numbers, a list of hashes or even a list of lists (an array of arrays)! You access this by referring it's position in the list, which in programming will ALWAYS start at 0. 
+
+## W3D2
+* __Database__: A way of storing our data in a way that persists.
+* __Persistence__: The idea that data will last beyond the user's time on the page - it's not just stored in the browser, it gets saved in a database for use later.
+* __Relational Database__: A way of joining different data sets (called tables) together. 
+* __ERD__: Entity relationship diagram - a standard way to visualize the way your database is set up.
+* __Primary key__: a unique row in your database.
+* __Foreign key__: The way to reference another table in a relational database.
+* __One to Many__: One of the types of relations in a relational database.
+* __Many to Many__: Another of the types of relations in a relational database.
+* __CRUD__: stands for "create", "read", "update" and "delete", the things that you can do when you interface with a database.
+* __ORM__: Object Relational Mapper - a way of translating between a coding language and database languages.
+* __Active Record__: The language we will use as our ORM that lets Ruby talk to SQL.
