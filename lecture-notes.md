@@ -31,3 +31,16 @@ W2D2
 W3D1
 * [Lecture Video](https://youtu.be/U4dPH35BKP0)
 * [Lecture Slides](https://docs.google.com/presentation/d/1xpBOc4r3yxzyV_QrjQXlqr-J87weDsbp2j6zjD33TvE/edit?usp=sharing)
+
+---
+W3D2
+* [Lecture Video pt 1](https://youtu.be/PSlGbFZNWDM)
+(It stopped recording after a minute for some reason, so this is very short!)
+* [Lecture Video pt 2](https://youtu.be/Z0UWpjX_Y5s)
+* [Lecture Slides](https://docs.google.com/presentation/d/1TKy3WECFC8pPBKonw0psbncaIzjPcJzOQOWYUse7UO0/edit?usp=sharing)
+* PLEASE DO THIS BEFORE STARTING TODAY'S WORK:
+# Open a new bash terminal
+# type `rvm install ruby-2.3` and hit enter
+# Once it has installed type `rvm use 2.3`
+# Then reinstall the bundler app by typing `gem install bundler`
+# And reinstall all our support apps like ActiveRecord by doing `bundle install`
