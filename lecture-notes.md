@@ -39,8 +39,8 @@ W3D2
 * [Lecture Video pt 2](https://youtu.be/Z0UWpjX_Y5s)
 * [Lecture Slides](https://docs.google.com/presentation/d/1TKy3WECFC8pPBKonw0psbncaIzjPcJzOQOWYUse7UO0/edit?usp=sharing)
 * PLEASE DO THIS BEFORE STARTING TODAY'S WORK:
-# Open a new bash terminal
-# type `rvm install ruby-2.3` and hit enter
-# Once it has installed type `rvm use 2.3`
-# Then reinstall the bundler app by typing `gem install bundler`
-# And reinstall all our support apps like ActiveRecord by doing `bundle install`
+1. Open a new bash terminal
+2. type `rvm install ruby-2.3` and hit enter
+3. Once it has installed type `rvm use 2.3`
+4. Then reinstall the bundler app by typing `gem install bundler`
+5. And reinstall all our support apps like ActiveRecord by doing `bundle install`
