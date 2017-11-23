@@ -15,12 +15,12 @@
 
 ### Q1 Mathing it up
   
-  write a method that takes in two numbers (n and y) and returns n to the power of y as a **string**
+  write a method that takes in two numbers (n and y) and returns the product of n times y as a **string**
   ```
   #so that
-  two_to_pow_of_three = power(2, 3) # => would output "8"
+  product = getProduct(2, 3) # => would output "6"
   ```
-  *if you can.. try to do this without using the Ruby exponent math operator (perhaps try to do this in a loop?)*
+  *if you can.. try to do this without using the Ruby '*' math operator (perhaps try to do this in a loop?)*
 ### Q2 More Mathing
 
   write a method that takens in a numerical value and returns true if its even and false if its odd
