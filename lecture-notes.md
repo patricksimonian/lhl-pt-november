@@ -44,3 +44,5 @@ W3D2
 3. Once it has installed type `rvm use 2.3`
 4. Then reinstall the bundler app by typing `gem install bundler`
 5. And reinstall all our support apps like ActiveRecord by doing `bundle install`
+* [Active Record Queries](http://guides.rubyonrails.org/active_record_querying.html#retrieving-objects-from-the-database)
+* [Intro to Active Record](http://guides.rubyonrails.org/active_record_basics.html)
