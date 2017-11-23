@@ -42,10 +42,10 @@
    [this doc may help with that endeavour](http://ruby-doc.org/core-2.2.0/Float.html#method-i-round)
    
  ### Q5 Combining Code
-   Write a new method that takes in two numbers (n1 and n2), calculates the n1 to the power of n2 and returns a string
+   Write a new method that takes in two numbers (n1 and n2), calculates the product of n1 to n2 and returns a string
    in this format:
    ```
-   Calculating [n1] to the power of [n2]
+   Calculating [n1] times [n2]
    Result [result of that calculation]
    The result of this number happens to be [odd | even]
    ```
