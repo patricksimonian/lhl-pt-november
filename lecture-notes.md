@@ -50,4 +50,4 @@ W3D2
 ---
 W4D1
 * [Slides](https://docs.google.com/presentation/d/1-fvTzbD7iuYAV3ROkL71ZatYzPlixGK_FW1Il08Jsa4/edit?usp=sharing)
-* 
+* [Lecture](https://youtu.be/9EMdJbzQ4qI)
