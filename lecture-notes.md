@@ -26,3 +26,28 @@ W2D2
 * [Lecture Video](https://youtu.be/rDRY6vGcq1w)
 * [Harry Potter Example Video](https://youtu.be/cK16CMb7l1g)
 * [Harry Potter Example Code](https://gist.github.com/jenreiher/0194693e3c4ced1da5a04e683df27632)
+
+---
+W3D1
+* [Lecture Video](https://youtu.be/U4dPH35BKP0)
+* [Lecture Slides](https://docs.google.com/presentation/d/1xpBOc4r3yxzyV_QrjQXlqr-J87weDsbp2j6zjD33TvE/edit?usp=sharing)
+
+---
+W3D2
+* [Lecture Video pt 1](https://youtu.be/PSlGbFZNWDM)
+(It stopped recording after a minute for some reason, so this is very short!)
+* [Lecture Video pt 2](https://youtu.be/Z0UWpjX_Y5s)
+* [Lecture Slides](https://docs.google.com/presentation/d/1TKy3WECFC8pPBKonw0psbncaIzjPcJzOQOWYUse7UO0/edit?usp=sharing)
+* PLEASE DO THIS BEFORE STARTING TODAY'S WORK:
+1. Open a new bash terminal
+2. type `rvm install ruby-2.3` and hit enter
+3. Once it has installed type `rvm use 2.3`
+4. Then reinstall the bundler app by typing `gem install bundler`
+5. And reinstall all our support apps like ActiveRecord by doing `bundle install`
+* [Active Record Queries](http://guides.rubyonrails.org/active_record_querying.html#retrieving-objects-from-the-database)
+* [Intro to Active Record](http://guides.rubyonrails.org/active_record_basics.html)
+
+---
+W4D1
+* [Slides](https://docs.google.com/presentation/d/1-fvTzbD7iuYAV3ROkL71ZatYzPlixGK_FW1Il08Jsa4/edit?usp=sharing)
+* 
