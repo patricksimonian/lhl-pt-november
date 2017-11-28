@@ -59,6 +59,7 @@ end
 # Q5 Answer
 def even_or_odd_product(x, y)
   product = getProduct(x, y).to_i
+  ## TEACHER NOTES: This code would break, there are no strings!
   %{Calculating #{x} times #{y}
 Result #{product}
 The result of this number happens to be #{find_if_even(product) ? 'even' : 'odd'}
