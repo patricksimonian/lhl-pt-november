@@ -46,3 +46,8 @@ W3D2
 5. And reinstall all our support apps like ActiveRecord by doing `bundle install`
 * [Active Record Queries](http://guides.rubyonrails.org/active_record_querying.html#retrieving-objects-from-the-database)
 * [Intro to Active Record](http://guides.rubyonrails.org/active_record_basics.html)
+
+---
+W4D1
+* [Slides](https://docs.google.com/presentation/d/1-fvTzbD7iuYAV3ROkL71ZatYzPlixGK_FW1Il08Jsa4/edit?usp=sharing)
+* 
