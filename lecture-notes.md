@@ -51,3 +51,9 @@ W3D2
 W4D1
 * [Slides](https://docs.google.com/presentation/d/1-fvTzbD7iuYAV3ROkL71ZatYzPlixGK_FW1Il08Jsa4/edit?usp=sharing)
 * [Lecture](https://youtu.be/9EMdJbzQ4qI)
+
+---
+W4D2
+* [Slides](https://docs.google.com/presentation/d/1GZR8luxpEKymNofF8zn9Ue9zQrpE8H-5oseOJiQyXG0/edit#slide=id.p)
+* [Lecture](https://youtu.be/0881qk0H10A)
+* [How to push you app to GitHub](https://youtu.be/sCoObqYGWuI)
