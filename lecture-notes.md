@@ -62,3 +62,10 @@ W4D2
 W5D1
 * [Slides](https://docs.google.com/presentation/d/1CKmmHiKLe6sZkqOrmBj788aflXLHBHUsNyWWOHXY4Do/edit?usp=sharing)
 * [Lecture](https://youtu.be/pAWWbB2nyIg)
+
+---
+W5D2
+* [Slides]()
+* [Lecture]()
+* [Ruby on Rails Cheat Sheet REST](https://appletree.or.kr/quick_reference_cards/Ruby-Ruby_on_Rails/RESTful%20Rails%20cheatsheet.pdf)
+* [Ruby on Rails Overall Cheat Sheet of AWESOMENESS](https://gist.github.com/mdang/95b4f54cadf12e7e0415)
