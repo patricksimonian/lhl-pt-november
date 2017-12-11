@@ -66,7 +66,7 @@ The result of this number happens to be #{find_if_even(product) ? 'even' : 'odd'
 end
 # END of Q5 Answer
 
-# Q6 Answer
+# Q Bonus Answer
 def findFirstIndex(character, test_string)
   index = 0
   test_string.each_char do |c|
@@ -76,7 +76,53 @@ def findFirstIndex(character, test_string)
 
   index == test_string.length ? "no match found" : index
 end
+# END of Q Bonus Answer
+
+# Q6 Answer
+def replacer(sentence, replacement)
+  sentence.gsub('*', replacement)
+end
 # END of Q6 Answer
+
+# Q7 Answer
+def randomPass
+  rand().to_s[2, 6]
+end
+# END of Q7 Answer
+
+# Q8 Answer
+def randomPassTwo
+  passwd = []
+  alphabet = [*'a'..'z']
+  6.times {
+      passwd << (rand(2) == 0 ? rand(10) : alphabet[rand(26)])
+  }
+  passwd.join
+end
+# END of Q8 Answer
+
+# Q9 Answer
+def randomPassThree(length)
+  passwd = []
+  alphabet = [*'a'..'z']
+  length.times {
+      passwd << (rand(2) == 0 ? rand(10) : alphabet[rand(26)])
+  }
+  passwd.join
+end
+# END of Q9 Answer
+
+# Q10 Answer
+def snake_to_camel(name)
+  name.split('_').map.with_index do |word, i| 
+    if i > 0
+      word.capitalize
+    else
+      word
+    end
+  end.join
+end
+# END of Q10 Answer
 
 ## End of Wayne's Answers'
 #=====================================================================================================================
