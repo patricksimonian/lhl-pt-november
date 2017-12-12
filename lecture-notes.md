@@ -73,4 +73,4 @@ W5D2
 W6D1
 * [Slides](https://docs.google.com/presentation/d/19NhxPAR23xp0AjIY4yCABYyiPHd4dqEUSLggFPFJjOM/edit?usp=sharing)
 * [Lecture](https://youtu.be/4EB4Nn53mRk)
-* [Common Media Queries] (https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+* [Common Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
