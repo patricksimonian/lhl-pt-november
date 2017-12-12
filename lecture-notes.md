@@ -70,6 +70,7 @@ W5D2
 * [Ruby on Rails Cheat Sheet REST](https://appletree.or.kr/quick_reference_cards/Ruby-Ruby_on_Rails/RESTful%20Rails%20cheatsheet.pdf)
 * [Ruby on Rails Overall Cheat Sheet of AWESOMENESS](https://gist.github.com/mdang/95b4f54cadf12e7e0415)
 
+---
 W6D1
 * [Slides](https://docs.google.com/presentation/d/19NhxPAR23xp0AjIY4yCABYyiPHd4dqEUSLggFPFJjOM/edit?usp=sharing)
 * [Lecture](https://youtu.be/4EB4Nn53mRk)
