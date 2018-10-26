@@ -92,7 +92,6 @@ g! E.g. "Hello, #{first_name} welcome to my fancy customized sentence!".
 * __Active Record__: The language we will use as our ORM that lets Ruby talk to SQL.
 
 ## W4D1
-
 * __Object Orientated Programming (OOP)__: A style of programming which abstract budles of codes in things called 'objects'. The 'object' defines a particular set of behaviours and properties. It is commonly used in programming video games. Ruby is an OOP language!
 * __Class__: One of the main building blocks to an OOP language. A class can be thought of as a blueprint. You use a class to create Objects just like you would use a blueprint or schematic to build a house or similar. 
 * __Instance/Instantiation__ : An instance can be thought of as single Object derived from a class. Instantiation is the verb we use to describe that process.
@@ -135,7 +134,7 @@ accessed on the instance of a class, not the class itself. (the opposite is call
   * has_many and belongs_to describe the relationship between two models and respectively their sql database relationship
   * adding has_many and belongs_to provides special methods to our models which makes querying and performing CRUD much much easier!! <(^.^<)
 
-## W4D1
+## W4D2
 * _form_: The html structure we use to collect input from users.
 * _method_: An attribute of an html form that tells your back end what to do with the data received.
 * _GET_: One of the two most common types of form methods. This lets you request (get) data from the database without making any changes to it.
